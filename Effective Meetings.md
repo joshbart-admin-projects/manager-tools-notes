@@ -21,16 +21,46 @@ In the [first podcast](https://www.manager-tools.com/2005/08/effective-meetings-
 
 ## Set ground rules
 
+- Ground rules for standing meetings should be fairly straight forward; these 10 are a good start
+- One at a time rule: if someone is talking, no side conversations.
+- No cell phones, pagers, email
+- Facilitator must enforce these rules; use politeness and good feedback
+- Post the ground rules
+
 ## Stick to the agenda
 
 ## Use a parking lot
 
 ## Fix responsibilities
 
+- After the end of each agenda item, assign to someone.
+- Wrap each agenda item: what's going to be done, by who, by when.
+- "Bob, you're going to do X by X, _right_?" As it as a question, so that Bob makes a public commitment
+
 ## Finish on time
+
+- Really simple if you stick to the agenda.
+- Everyone will forgive you for 5 minutes late, if that's all you ever are.
+- If you're going to go over, get consensus 15 minutes out.
 
 ## Publish the minutes
 
+- This is a frustrating one: doesn't need to be robert's rules of order
+- All they are: who said they're going to do what and what we decided on
+- If you have one, the admin would normally take notes & publish; if not, rotate who's doing the minutes or have the facilitator do them
+- Not a lot of detail; mention reports, but no needed details and no attachments
+- Email is fine; vast amount of attachments don't get read
+- Goes to everyone who was in the meeting
+
 ## Continuously improve
 
+- Ever so often, review ground rules and principles; add as agenda item; opportunity for feedback
+- Focus on the process
+- Pat people on the back; say thank you to them
+
 ## Get a facilitator
+
+- One of the most powerful aspects; most leaders can do these things on their own
+- Mike as VP is not going to run his meeting
+- Admin could be facilitator; the point is to separate contributors from the person enforcing the ground rules
+- As a leader, don't sacrifice the rules
