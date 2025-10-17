@@ -25,7 +25,13 @@ They see this as critical knowledge. Some will get at it by hiring people they'v
 
 We need a teachable equivalent for getting this knowledge. One-on-ones is the Manager Tools teachable equivalent. This is not the only way to get to know my people, but it is one way that the Manager Tools team has found to be effective.
 
+The one-on-one is a weekly half-hour meeting. There's a specific agenda. There are easy rules to apply to it. Anybody can do it. The way human beings move toward great relationships—open, trusting relationships—is to communicate regularly and frequently. Communication is what the listener does. Because of this, the one-on-one is built around the direct. The manager tools team has tested various versions of one-on-ones: monthly, biweekly, and semi-weekly, hour-long, 20-minutes, and 15-15 agenda.
+
 ## Feedback: great managers communicate incessantly about performance
+
+Different parts of the Trinity appeal to different people; there's a part of the Trinity that makes everyone uncomfortable. Feedback is usually uncomfortable for most folks. Great managers talk openly, directly, frankly, candidly, almost politely, in-your-face-ly, and frequently about performance. They are incessant and annoying about it. Almost non-stop.
+
+Directs begin to crave information about how they are doing.
 
 ## Coaching: great managers regularly ask for improved performance
 
