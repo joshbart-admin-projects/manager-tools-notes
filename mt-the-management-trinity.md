@@ -31,8 +31,18 @@ The one-on-one is a weekly half-hour meeting. There's a specific agenda. There a
 
 Different parts of the Trinity appeal to different people; there's a part of the Trinity that makes everyone uncomfortable. Feedback is usually uncomfortable for most folks. Great managers talk openly, directly, frankly, candidly, almost politely, in-your-face-ly, and frequently about performance. They are incessant and annoying about it. Almost non-stop.
 
-Directs begin to crave information about how they are doing.
+Directs begin to crave information about how they are doing. If I worked for Welsh or Bossidy, I would know where I stood. Bossidy talks about candor all the time and says I have to be willing to have the tough conversations. This is the most rare natural tendency of managers the MT team know. Tough no-nonsense managers still shy away from these types of conversations. Almost all great managers are exceptionally demanding as well.
+
+We shy away from offering candid feedback because we are afraid of injuring our relationship, because we are afraid of the feedback itself, and we don't know how. The MT feedback model was developed to overcome the not-knowing; as a result, it helps overcome the fear. Doing this frequently, we discover the benefits and the lack of negatives. 
 
 ## Coaching: great managers regularly ask for improved performance
 
+Great managers don't leave directs' development to chance. They don't want their directs to be 5% better; they want them 15% better at the end of the year. They don't think goading and feedback are enough. They take an active, hands-on role: goal-setting, training, connecting with network. They set goals and follow up; they don't let their directs off the hook. If the direct lacks drive to improve themself, they are not going to do well working for a high performance manager.
+
+If my standard is to get the most out of my people and do my very best, I've got to ask my people to step up and do better. Just hiring people, knowing them, and providing feedback is not enough. Great managers are never satisfied with only a slow natural improvement curve. They expect, measure, and verify noted improvement in certain areas. There is no coasting upward.
+
+Coaching involves lots of candor and repetition of previously discussed items. The coaching model most closely resembles what many of the great executives do when they sit down and talk to their folks. It's a simple process of four steps: set goals, gather resources, come up with a plan, and the direct acts on that plan. Every great manager coaches everyone who works for them. This is hard in up-times; there's always lots of work to be done. In down-times, developed directs are positioned to make the best difference.
+
 ## Delegation: great managers grow organizational capability
+
+This is the fourth "silent" partner of the Management Trinity. The first three are about the direct; this one is about growing the organization. Is the manager giving away work and having the direct take over responsibility for the work.
