@@ -45,4 +45,14 @@ Coaching involves lots of candor and repetition of previously discussed items. T
 
 ## Delegation: great managers grow organizational capability
 
-This is the fourth "silent" partner of the Management Trinity. The first three are about the direct; this one is about growing the organization. Is the manager giving away work and having the direct take over responsibility for the work.
+This is the fourth "silent" partner of the Management Trinity. The first three are about the direct; this one is about growing the organization. Is the manager giving away work and having the direct take over responsibility for the work. When you look at the key themes that energize great leaders, they give away big chunks of their existing job to train their directs on their existing job. This frees up their time to go after the big opportunities. 
+
+Great managers push stuff down immediately. Part of coaching is giving people a lot of stuff to do and providing them resources to get them where they need to be. Great managers train people by giving them stuff to do. E.g. Walmart, the US Military, and Proctor & Gamble all promote within; this means that lower levels need to know what the person above them does. Great organizations push decision-making down to the lowest level.
+
+Delegation doesn't happen because managers fear the lower performance when a direct has to do it for the first time. Managers who don't do this stay incredibly busy. By giving chuck of my job to my directs, I can help them learn that part of the job in two months or less. When getting it all at once, most managers take six months to learn everything. Organizations which have managers who work on developing their folks tend to have more capability. More delegation means more productivity, which is management's way to get to profitability. Companies with managers who delegate don't have to hire as many people when they grow; this means more profits and a quicker up-turn turn around.
+
+This is more of a script than a model. Managers struggle deciding what to delegate and argue with the MT team regardless of what the MT team recommends turning over. The MT guidance tries to lower the bar of greatness by suggesting steps so that delegation happens smoothly.
+
+## What are the actions we can take
+
+I need to tell my directs why I'm doing this. Include this cast in the rollout. Encourage questions about why I'm doing this. Explain to folks that I'm trying to become more effective. Trust that the more directs understand my efforts, the more they will be able to help me implement them.
