@@ -55,4 +55,4 @@ This is more of a script than a model. Managers struggle deciding what to delega
 
 ## What are the actions we can take
 
-I need to tell my directs why I'm doing this. Include this cast in the rollout. Encourage questions about why I'm doing this. Explain to folks that I'm trying to become more effective. Trust that the more directs understand my efforts, the more they will be able to help me implement them.
+I need to tell my directs why I'm doing this. Include this cast in the rollout. Encourage questions about why I'm doing this. Explain to folks that I'm trying to become more effective. Trust that the more directs understand my efforts, the more they will be able to help me implement them. These tools are meant to help when I'm struggling; I should ask myself what great managers do.
