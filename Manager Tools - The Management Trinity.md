@@ -4,14 +4,11 @@ This cast helps me as a manager explain why I'm using these tools and what their
 
 ## All of the Manager Tools Trinity tools are teachable equivalents
 
-- The problem with management learning is that it's theoretical; Knowing-Doing Gap
-- Management learning is rarely about specific actions
-- Good management actions can be derived from those managers who are excellent at management
-    - People behave certian ways when bosses are given power; focus on the simplicity of these interactions should be the goal
-    - Study of the great executives helps to determine what to do; Bill Gates, Jack Welch, Charles Kettering, Alfred Sloan, Jr., Thomas Watson, Henry Ford
-    - The two best management books: The Effective Executive by Peter Drucker; and Execution by Larry Bossidy
-- The Manager Tools team has worked with 10s of thousands of managers and gained insight into what works and what doesn't
-- Boiled great management into an equivalent that you can do now
+The problem with management learning is that it's theoretical; Knowing-Doing Gap. Management learning is rarely about specific actions. Good management actions can be derived from those managers who are excellent at management.
+- People behave certain ways when bosses are given power; focus on the simplicity of these interactions should be the goal
+- Study of the great executives helps to determine what to do; Bill Gates, Jack Welch, Charles Kettering, Alfred Sloan, Jr., Thomas Watson, Henry Ford
+- The two best management books: The Effective Executive by Peter Drucker; and Execution by Larry Bossidy
+The Manager Tools team has worked with 10s of thousands of managers and gained insight into what works and what doesn't. Boiled great management into an equivalent that you can do now.
 
 ## One on ones: great managers know their people exceptionally well
 
