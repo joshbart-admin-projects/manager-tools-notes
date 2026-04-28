@@ -1,4 +1,4 @@
-# Effective Meetings - Manager Tools
+## Podcast Links
 
 The Manager Tools team has created a three-part series of podcasts around conducting effective meetings.  They lay out 10 overall strategies listed below:
 
@@ -49,7 +49,7 @@ In the third podcast, they answer questions from listeners and provide some clar
 
 ## Publish the minutes
 
-- This is a frustrating one: doesn't need to be robert's rules of order
+- This is a frustrating one: doesn't need to be Robert's Rules of Order
 - All they are: who said they're going to do what and what we decided on
 - If you have one, the admin would normally take notes & publish; if not, rotate who's doing the minutes or have the facilitator do them
 - Not a lot of detail; mention reports, but no needed details and no attachments

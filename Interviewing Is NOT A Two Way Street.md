@@ -1,5 +1,3 @@
-# Interviewing Is NOT A Two Way Street
-
 [Episode](https://pca.st/jt900p87)
 
 ## Outline

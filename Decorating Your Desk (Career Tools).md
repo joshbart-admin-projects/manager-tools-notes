@@ -1,15 +1,11 @@
-# Career Tools: Decorating Your Desk
-
 ## Podcast Links
 
 - [Decorating Your Desk - Part 1](https://manager-tools.com/2010/09/decorating-your-desk-part-1)
 - [Decorating Your Desk - Part 2](https://manager-tools.com/2010/09/decorating-your-desk-part-2)
 - [Decorating for the Holidays](https://manager-tools.com/2017/12/decorating-holidays)
-
 ## Primary Take-aways
 
 Mark recommends six characteristics of a professional employee's desk:
-
 - The desk should be tidy
 - Only essential equipment
 - One or two pictures of your family
